@@ -1,1 +1,1 @@
-sudo apt install gnome-core rhythmbox
+sudo apt update -y && sudo apt install gnome-core rhythmbox -y
