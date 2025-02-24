@@ -7,4 +7,4 @@ Package: *
 Pin: origin packages.mozilla.org
 Pin-Priority: 1000
 ' | sudo tee /etc/apt/preferences.d/mozilla
-sudo apt-get update && sudo apt-get install firefox 
+sudo apt update && sudo apt install firefox 
