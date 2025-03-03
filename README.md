@@ -1,3 +1,5 @@
+#MOVED TO GITLAB
+https://gitlab.com/skeuohazard/simple-ubuntu
 # simpleubuntu
 stole this from reddit lol
 
